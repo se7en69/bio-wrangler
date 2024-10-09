@@ -26,6 +26,7 @@ pip install bio-wrangler
 
 1. Loading Data
 You can load data from FASTA, FASTQ, VCF, and GFF files into pandas DataFrames.
+
 from bio_wrangler.bio_wrangler import BioWrangler
 
 # Initialize the class
