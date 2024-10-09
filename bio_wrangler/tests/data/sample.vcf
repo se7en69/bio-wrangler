@@ -1,0 +1,6 @@
+##fileformat=VCFv4.2
+##source=mock
+#CHROM POS ID REF ALT QUAL FILTER INFO
+1 12345 . A T 50 PASS .
+1 67890 . G C 99 PASS .
+2 13579 . T A 20 PASS .
